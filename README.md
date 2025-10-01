@@ -64,8 +64,8 @@ c-programming/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd c-programming
+   git clone https://github.com/brijeshdevio/C.git
+   cd C
    ```
 
 2. Verify your C compiler installation:
